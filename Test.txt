@@ -1,3 +1,1 @@
-I was actively involved in problem-solving and improving the existing functionalities of the legacy system. My role included identifying issues, troubleshooting problems, and implementing solutions to enhance system performance. By thoroughly analyzing the legacy architecture, I was able to address inefficiencies, resolve bugs, and ensure smoother operations.
-
-Additionally, I worked closely with the team to maintain and optimize existing functionalities, ensuring that they continued to meet current business needs while staying compatible with newer technologies. My contributions helped extend the system’s life, improve its stability, and ensure that it continued to deliver value without requiring a complete overhaul.
+I was actively involved in problem-solving and improving the existing functionalities of the legacy sy
